@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "𝐂HUDlINGPONG BOT",
-    "PREFIX": "/",
+    "PREFIX": "!",
     "ADMINBOT": [
         "100052951819398"
     ],
